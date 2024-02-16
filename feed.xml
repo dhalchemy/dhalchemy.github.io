@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>DH Alchemy</title>
+  <subtitle>A DH Consultancy</subtitle>
+  <link href="http://localhost:8080"/>
+  <link href="http://localhost:8080/feed.xml" rel="self"/>
+  <updated>2024-02-16T15:18:31Z</updated>
+  <id>http://localhost:8080</id>
+  <author>
+    <name>the cooperative</name>
+    <email></email>
+  </author>
+</feed>
