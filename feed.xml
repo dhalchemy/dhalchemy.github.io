@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>DH Alchemy</title>
   <subtitle>A DH Consultancy</subtitle>
-  <link href="http://localhost:8080"/>
+  <link href="https://dhalchemy.ca"/>
   <link href="http://localhost:8080/feed.xml" rel="self"/>
-  <updated>2024-03-22T20:10:41Z</updated>
-  <id>http://localhost:8080</id>
+  <updated>2024-03-22T22:21:00Z</updated>
+  <id>https://dhalchemy.ca</id>
   <author>
     <name>the associates</name>
     <email></email>
